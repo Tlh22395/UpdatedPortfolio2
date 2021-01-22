@@ -1,0 +1,16 @@
+body {
+  background-color: grey;
+}
+
+.box {
+  background-color: white;
+}
+
+#submit-button {
+  margin: 10px;
+}
+
+img {
+  height: 200px;
+  width: 200px;
+}
